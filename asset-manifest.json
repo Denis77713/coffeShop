@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/coffeShop/static/css/main.3088129d.css",
+    "main.js": "/coffeShop/static/js/main.0f474460.js",
+    "static/js/787.9a093f79.chunk.js": "/coffeShop/static/js/787.9a093f79.chunk.js",
+    "static/media/ourBest.png": "/coffeShop/static/media/ourBest.2789623e157473e4342a.png",
+    "static/media/ShantellSans-Bold.otf": "/coffeShop/static/media/ShantellSans-Bold.ded3299eedc234d759d7.otf",
+    "static/media/ShantellSans-Regular.otf": "/coffeShop/static/media/ShantellSans-Regular.6fb91c75698e63dabe7c.otf",
+    "static/media/Merienda-Bold.otf": "/coffeShop/static/media/Merienda-Bold.cde4d6a45cfc5c157ae7.otf",
+    "static/media/Merienda-Regular.otf": "/coffeShop/static/media/Merienda-Regular.bb1b9f2d1da92776bc24.otf",
+    "static/media/ShantellSans-Bold.woff2": "/coffeShop/static/media/ShantellSans-Bold.1db0020265aeeb75431f.woff2",
+    "static/media/ShantellSans-Regular.woff2": "/coffeShop/static/media/ShantellSans-Regular.968468264b7ad5a5c749.woff2",
+    "static/media/Merienda-Bold.woff2": "/coffeShop/static/media/Merienda-Bold.66577abaf3d414ffa222.woff2",
+    "static/media/Merienda-Regular.woff2": "/coffeShop/static/media/Merienda-Regular.d568ed0e464d402ded17.woff2",
+    "index.html": "/coffeShop/index.html",
+    "main.3088129d.css.map": "/coffeShop/static/css/main.3088129d.css.map",
+    "main.0f474460.js.map": "/coffeShop/static/js/main.0f474460.js.map",
+    "787.9a093f79.chunk.js.map": "/coffeShop/static/js/787.9a093f79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3088129d.css",
+    "static/js/main.0f474460.js"
+  ]
+}
