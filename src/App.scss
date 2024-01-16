@@ -1,0 +1,44 @@
+@use "./styles/variables.scss" as *;
+@use "./styles/mixins.scss" as *;
+@import "./fonts/fonts.scss";
+
+.App{
+height: 100%;
+position: relative;
+overflow: hidden
+}
+.nav-item {
+  @include navItem();
+}
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+}
+.text-main{
+  padding: 0;
+}
+.buttonActive{
+  text-decoration: underline;
+  // border: 1px solid black;
+}
+.button{
+  text-decoration: none;
+  // border: none;
+}
+
+#root{display: flex;}
+.App {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  /* Чтобы занимал оставшееся пространство */
+  flex-grow: 1;
+}
+main {
+  /* Чтобы занимал оставшееся пространство */
+  flex-grow: 1;
+}

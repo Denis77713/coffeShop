@@ -1,0 +1,12 @@
+
+@use '../src/styles/mixins.scss' as *;
+@use '../src/styles/variables.scss' as *;
+
+.main-contaiter-content {
+  @include container();
+  width: $container;
+}
+.main-container-nav {
+  @include container();
+  width: $containerHeadervav;
+}
